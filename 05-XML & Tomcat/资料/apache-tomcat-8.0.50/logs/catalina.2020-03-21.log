@@ -1,0 +1,41 @@
+21-Mar-2020 18:21:33.823 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/8.0.50
+21-Mar-2020 18:21:33.834 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Feb 7 2018 20:06:05 UTC
+21-Mar-2020 18:21:33.835 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         8.0.50.0
+21-Mar-2020 18:21:33.836 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+21-Mar-2020 18:21:33.836 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+21-Mar-2020 18:21:33.837 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+21-Mar-2020 18:21:33.837 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk1.8.0_191\jre
+21-Mar-2020 18:21:33.837 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_191-b12
+21-Mar-2020 18:21:33.837 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+21-Mar-2020 18:21:33.837 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         I:\BaiduNetdiskDownload\资料\05-XML & Tomcat\资料\apache-tomcat-8.0.50
+21-Mar-2020 18:21:33.837 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         I:\BaiduNetdiskDownload\资料\05-XML & Tomcat\资料\apache-tomcat-8.0.50
+21-Mar-2020 18:21:33.838 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=I:\BaiduNetdiskDownload\资料\05-XML & Tomcat\资料\apache-tomcat-8.0.50\conf\logging.properties
+21-Mar-2020 18:21:33.838 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+21-Mar-2020 18:21:33.838 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+21-Mar-2020 18:21:33.838 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+21-Mar-2020 18:21:33.838 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+21-Mar-2020 18:21:33.839 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=I:\BaiduNetdiskDownload\资料\05-XML & Tomcat\资料\apache-tomcat-8.0.50
+21-Mar-2020 18:21:33.840 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=I:\BaiduNetdiskDownload\资料\05-XML & Tomcat\资料\apache-tomcat-8.0.50
+21-Mar-2020 18:21:33.841 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=I:\BaiduNetdiskDownload\资料\05-XML & Tomcat\资料\apache-tomcat-8.0.50\temp
+21-Mar-2020 18:21:33.842 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded APR based Apache Tomcat Native library 1.2.16 using APR version 1.6.3.
+21-Mar-2020 18:21:33.842 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+21-Mar-2020 18:21:34.741 信息 [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized (OpenSSL 1.0.2m  2 Nov 2017)
+21-Mar-2020 18:21:35.051 信息 [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-apr-8080"]
+21-Mar-2020 18:21:35.089 信息 [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-apr-8009"]
+21-Mar-2020 18:21:35.097 信息 [main] org.apache.catalina.startup.Catalina.load Initialization processed in 2070 ms
+21-Mar-2020 18:21:35.171 信息 [main] org.apache.catalina.core.StandardService.startInternal Starting service Catalina
+21-Mar-2020 18:21:35.176 信息 [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.0.50
+21-Mar-2020 18:21:35.203 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory I:\BaiduNetdiskDownload\资料\05-XML & Tomcat\资料\apache-tomcat-8.0.50\webapps\docs
+21-Mar-2020 18:21:36.318 警告 [localhost-startStop-1] org.apache.catalina.util.SessionIdGeneratorBase.createSecureRandom Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [550] milliseconds.
+21-Mar-2020 18:21:36.352 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory I:\BaiduNetdiskDownload\资料\05-XML & Tomcat\资料\apache-tomcat-8.0.50\webapps\docs has finished in 1,149 ms
+21-Mar-2020 18:21:36.353 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory I:\BaiduNetdiskDownload\资料\05-XML & Tomcat\资料\apache-tomcat-8.0.50\webapps\examples
+21-Mar-2020 18:21:37.089 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory I:\BaiduNetdiskDownload\资料\05-XML & Tomcat\资料\apache-tomcat-8.0.50\webapps\examples has finished in 735 ms
+21-Mar-2020 18:21:37.089 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory I:\BaiduNetdiskDownload\资料\05-XML & Tomcat\资料\apache-tomcat-8.0.50\webapps\host-manager
+21-Mar-2020 18:21:37.149 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory I:\BaiduNetdiskDownload\资料\05-XML & Tomcat\资料\apache-tomcat-8.0.50\webapps\host-manager has finished in 60 ms
+21-Mar-2020 18:21:37.150 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory I:\BaiduNetdiskDownload\资料\05-XML & Tomcat\资料\apache-tomcat-8.0.50\webapps\manager
+21-Mar-2020 18:21:37.212 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory I:\BaiduNetdiskDownload\资料\05-XML & Tomcat\资料\apache-tomcat-8.0.50\webapps\manager has finished in 62 ms
+21-Mar-2020 18:21:37.215 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory I:\BaiduNetdiskDownload\资料\05-XML & Tomcat\资料\apache-tomcat-8.0.50\webapps\ROOT
+21-Mar-2020 18:21:37.258 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory I:\BaiduNetdiskDownload\资料\05-XML & Tomcat\资料\apache-tomcat-8.0.50\webapps\ROOT has finished in 44 ms
+21-Mar-2020 18:21:37.267 信息 [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-apr-8080"]
+21-Mar-2020 18:21:37.309 信息 [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-apr-8009"]
+21-Mar-2020 18:21:37.338 信息 [main] org.apache.catalina.startup.Catalina.start Server startup in 2241 ms
